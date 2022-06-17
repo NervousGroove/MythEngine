@@ -1,4 +1,4 @@
-let person = prompt("Please enter your name", "Harry Potter");
+let person = prompt("Please enter your name", "Harry Potter")
 
 if (person != null) {
     document.getElementById("demo").innerHTML =
