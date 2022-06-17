@@ -9,4 +9,4 @@ function display_image(src, width, height, alt) {
 display_image('https://opengameart.org/sites/default/files/survivor-idle_shotgun_0.png',
     276,
     110,
-    'JavaScriptImage');
+    'JavaScriptImage')
