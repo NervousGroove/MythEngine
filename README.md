@@ -1,5 +1,5 @@
 # MythEngine
-A free JavaScript-based 2D and 3D Engine.
+👾 A free JavaScript-based 2D and 3D Engine.
 
 ⚔️ Easily create games with MythEngine!
 
