@@ -1,10 +1,14 @@
 # MythEngine
-👾 A free JavaScript-based 2D and 3D Engine.
+👾 Uma Engine 3D e 2D Totalmente Gratuita!
 
-⚔️ Easily create games with MythEngine!
+⚔️ Crie jogos facilmente!
 
-📣 Constantly updated for new functions, objects and more!
+📣 Atualizações constantes para novas Funções, Objetos, Templates e mais!
 
-👨🏾‍💻 Entirely in JavaScript!
+👨🏾‍💻 Totalmente em HTML, CSS e JS!
+
+✅ Totalmente BRASILEIRA! [Primeira Engine BRAZUCA]
+
+🐱‍🐉 Em PT - BR
  
  
