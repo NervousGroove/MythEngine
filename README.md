@@ -11,4 +11,4 @@
 
 🐱‍🐉 Em PT - BR
  
- 
+🐱‍🚀 Desenvolvida e Distribuida por Nehasky [http://nehasky.ml]
