@@ -1,5 +1,0 @@
-onoffline
-
-function myevent() {
-    
-}
