@@ -1,6 +1,0 @@
-#animation img {
-    display: none;
-}
-#animation img:first-child {
-    display: block;
-}
