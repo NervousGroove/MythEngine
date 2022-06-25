@@ -1,7 +1,7 @@
 # MythEngine
 👾 A Totally Free 3D and 2D Engine!
 
-⚔️ Crie jogos facilmente!
+⚔️ Create games easily!
 
 📣 Constant updates for new Functions, Objects, Templates and more!
 
