@@ -1,14 +1,14 @@
 # MythEngine
-👾 Uma Engine 3D e 2D Totalmente Gratuita!
+👾 A Totally Free 3D and 2D Engine!
 
 ⚔️ Crie jogos facilmente!
 
-📣 Atualizações constantes para novas Funções, Objetos, Templates e mais!
+📣 Constant updates for new Functions, Objects, Templates and more!
 
-👨🏾‍💻 Totalmente em HTML, CSS e JS!
+👨🏾‍💻 Totally in JS!
 
-✅ Totalmente BRASILEIRA! [Primeira Engine BRAZUCA]
+✅ Totally BRAZILIAN! [First Engine BRAZUCA]
 
-🐱‍🐉 Em PT - BR
+🐱‍🐉 Extremely powerful and easy learning curve!
  
-🐱‍🚀 Desenvolvida e Distribuida por Nehasky [http://nehasky.ml]
+🐱‍🚀 Developed and Distributed by Nehasky [http://nehasky.ml]
